@@ -1,0 +1,81 @@
+Date,Product,Category,Quantity,Sales_Amount,Profit,Region
+2/17/2025,Face Wash,Skincare,23,6279,1873,Aurangabad
+1/23/2025,Conditioner,Beauty,13,4771,1525,Aurangabad
+1/10/2025,Face Wash,Skincare,27,5130,1832,Aurangabad
+1/5/2025,Foundation,Cosmetics,14,2548,330,Pune
+1/12/2025,Shampoo,Beauty,50,16200,5177,Thane
+1/17/2025,Conditioner,Beauty,7,2485,578,Pune
+2/15/2025,Perfume,Fragrance,5,1585,483,Nashik
+1/19/2025,Lipstick,Cosmetics,32,6976,2183,Mumbai
+1/16/2025,Hair Oil,Beauty,37,6512,1156,Aurangabad
+1/7/2025,Shampoo,Beauty,5,1450,312,Nagpur
+1/29/2025,Conditioner,Beauty,16,3648,1179,Nagpur
+1/2/2025,Serum,Skincare,28,9632,2285,Pune
+2/1/2025,Lipstick,Cosmetics,36,11628,3731,Mumbai
+2/20/2025,Body Lotion,Skincare,15,3765,916,Nagpur
+1/1/2025,Lipstick,Cosmetics,14,5124,680,Pune
+3/2/2025,Shampoo,Beauty,9,2601,921,Pune
+3/2/2025,Serum,Skincare,14,3528,1356,Aurangabad
+2/25/2025,Shampoo,Beauty,10,3660,1084,Pune
+1/22/2025,Foundation,Cosmetics,47,14241,3385,Nagpur
+1/15/2025,Lipstick,Cosmetics,7,2051,631,Pune
+1/6/2025,Foundation,Cosmetics,50,13550,1985,Aurangabad
+1/4/2025,Foundation,Cosmetics,40,10960,1821,Nashik
+2/24/2025,Hair Oil,Beauty,18,4806,1309,Pune
+2/26/2025,Shampoo,Beauty,24,5448,1783,Pune
+1/11/2025,Perfume,Fragrance,8,1800,456,Mumbai
+2/14/2025,Face Wash,Skincare,15,3360,981,Aurangabad
+1/14/2025,Face Cream,Skincare,26,10166,3307,Mumbai
+1/28/2025,Body Lotion,Skincare,29,10643,1254,Aurangabad
+2/20/2025,Foundation,Cosmetics,18,6354,912,Aurangabad
+2/11/2025,Serum,Skincare,46,13064,1458,Aurangabad
+2/16/2025,Face Wash,Skincare,14,3570,1405,Nagpur
+1/8/2025,Perfume,Fragrance,36,12816,2110,Mumbai
+2/9/2025,Serum,Skincare,31,5890,825,Nagpur
+2/27/2025,Body Lotion,Skincare,19,3249,1095,Thane
+2/6/2025,Face Cream,Skincare,21,4767,1647,Mumbai
+2/28/2025,Perfume,Fragrance,17,4267,1417,Nashik
+2/5/2025,Foundation,Cosmetics,36,10656,3733,Mumbai
+1/21/2025,Body Lotion,Skincare,33,6864,1769,Mumbai
+1/30/2025,Conditioner,Beauty,23,4485,1435,Nagpur
+2/2/2025,Body Lotion,Skincare,15,2700,311,Pune
+2/19/2025,Foundation,Cosmetics,14,3654,992,Mumbai
+1/29/2025,Body Lotion,Skincare,28,10584,3186,Nashik
+1/23/2025,Serum,Skincare,23,3910,970,Pune
+2/22/2025,Perfume,Fragrance,38,8284,1204,Nagpur
+1/1/2025,Shampoo,Beauty,39,6006,877,Aurangabad
+2/19/2025,Shampoo,Beauty,27,6183,2313,Aurangabad
+1/11/2025,Hair Oil,Beauty,15,4980,1709,Nashik
+2/4/2025,Serum,Skincare,36,6264,2191,Aurangabad
+2/9/2025,Serum,Skincare,37,11433,2118,Nagpur
+1/25/2025,Perfume,Fragrance,14,3192,506,Pune
+2/5/2025,Body Lotion,Skincare,36,5436,881,Thane
+3/1/2025,Lipstick,Cosmetics,24,3696,543,Mumbai
+1/8/2025,Body Lotion,Skincare,23,9131,2294,Pune
+1/18/2025,Conditioner,Beauty,30,7530,1507,Pune
+2/23/2025,Conditioner,Beauty,37,13912,3812,Pune
+1/7/2025,Conditioner,Beauty,48,13488,4328,Pune
+1/16/2025,Foundation,Cosmetics,16,3136,556,Mumbai
+1/19/2025,Foundation,Cosmetics,6,1248,130,Pune
+3/2/2025,Hair Oil,Beauty,27,9531,2830,Aurangabad
+2/26/2025,Foundation,Cosmetics,17,2839,831,Aurangabad
+2/8/2025,Hair Oil,Beauty,8,1768,413,Thane
+1/24/2025,Foundation,Cosmetics,40,13320,2474,Pune
+1/19/2025,Body Lotion,Skincare,48,8304,1009,Nagpur
+2/12/2025,Foundation,Cosmetics,24,4224,1122,Mumbai
+1/13/2025,Face Wash,Skincare,32,11584,1530,Nagpur
+1/17/2025,Foundation,Cosmetics,8,1216,238,Aurangabad
+1/22/2025,Serum,Skincare,9,3276,959,Mumbai
+2/19/2025,Shampoo,Beauty,22,5830,1016,Mumbai
+2/21/2025,Body Lotion,Skincare,37,10989,1654,Aurangabad
+1/27/2025,Lipstick,Cosmetics,7,1925,565,Thane
+1/5/2025,Face Cream,Skincare,18,5490,2079,Aurangabad
+1/8/2025,Serum,Skincare,26,5668,1659,Nagpur
+2/4/2025,Shampoo,Beauty,19,5092,1525,Aurangabad
+2/7/2025,Body Lotion,Skincare,15,3180,955,Aurangabad
+2/7/2025,Foundation,Cosmetics,46,11592,3264,Nashik
+1/20/2025,Conditioner,Beauty,25,5300,1837,Nagpur
+3/2/2025,Face Cream,Skincare,25,7575,1426,Thane
+1/26/2025,Face Cream,Skincare,30,5970,1482,Thane
+1/20/2025,Face Wash,Skincare,17,4522,1785,Mumbai
+1/20/2025,Lipstick,Cosmetics,38,12502,2886,Aurangabad
